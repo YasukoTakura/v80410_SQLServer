@@ -1,68 +1,23 @@
 [
   {
     "ModuleName": "Table/親テーブル",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-01T18:15:27.4920685+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\親テーブル.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/子テーブル",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-01T18:15:27.4920685+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\子テーブル.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/ダミー消していい",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-01T18:41:50.7439205+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\ダミー消していい.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/親",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-01T18:41:50.7439205+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\親.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/明細",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-01T18:41:50.7439205+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\明細.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Pages/ビルトイン ページ",
@@ -198,16 +153,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-01T18:41:50.7439205+09:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet.json"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
