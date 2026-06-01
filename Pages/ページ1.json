@@ -1,0 +1,159 @@
+{
+  "Rows": {
+    "Count": 45
+  },
+  "Cols": {
+    "Count": 60
+  },
+  "AttachInfos": {
+    "2,3": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "親テーブル",
+        "RowIndex": 2,
+        "ColumnIndex": 3,
+        "ColumnCount": 15,
+        "RowCount": 6,
+        "ColumnOperation": 2,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "Name": "リストビュー1",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "3,3": {
+      "BindingInfo": {
+        "TableName": "親テーブル",
+        "ColumnName": "ID"
+      }
+    },
+    "3,5": {
+      "BindingInfo": {
+        "TableName": "親テーブル",
+        "ColumnName": "所属名"
+      }
+    },
+    "3,10": {
+      "BindingInfo": {
+        "TableName": "親テーブル",
+        "ColumnName": "ID",
+        "RelationBinding": {
+          "RelatedTable": "子テーブル",
+          "RelatedColumn": "親テーブルのID",
+          "DisplayColumn": "職員番号"
+        }
+      }
+    },
+    "6,21": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "ダミー消していい",
+        "RowIndex": 6,
+        "ColumnIndex": 21,
+        "ColumnCount": 11,
+        "RowCount": 8,
+        "ColumnOperation": 2,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "Name": "リストビュー3",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "7,21": {
+      "BindingInfo": {
+        "TableName": "ダミー消していい",
+        "ColumnName": "ID"
+      }
+    },
+    "7,23": {
+      "BindingInfo": {
+        "TableName": "ダミー消していい",
+        "ColumnName": "テキスト"
+      }
+    },
+    "11,3": {
+      "ListViewInfo": {
+        "ShowColumnHeaderInDesigner": true,
+        "TableName": "親",
+        "RowIndex": 11,
+        "ColumnIndex": 3,
+        "ColumnCount": 15,
+        "RowCount": 7,
+        "ColumnOperation": 2,
+        "ShowEditStatusIcon": true,
+        "UseSimpleBar": true,
+        "Name": "リストビュー2",
+        "TopCondition": null,
+        "ListViewStyleName": "_RS_Medium2"
+      }
+    },
+    "12,3": {
+      "BindingInfo": {
+        "TableName": "親",
+        "ColumnName": "ID"
+      }
+    },
+    "12,5": {
+      "BindingInfo": {
+        "TableName": "親",
+        "ColumnName": "商品名"
+      }
+    },
+    "12,9": {
+      "BindingInfo": {
+        "TableName": "親",
+        "ColumnName": "ID",
+        "RelationBinding": {
+          "RelatedTable": "明細",
+          "RelatedColumn": "親ID",
+          "DisplayColumn": "数量"
+        }
+      }
+    }
+  },
+  "StyleDatas": {
+    "Types": {
+      "Strs": [
+        "Body"
+      ]
+    },
+    "SheetStyle": {
+      "FontFamily": 0
+    }
+  },
+  "Spans": [
+    "4,3,4,15",
+    "3,3,1,2",
+    "2,3,1,2",
+    "3,5,1,5",
+    "2,5,1,5",
+    "3,10,1,5",
+    "2,10,1,5",
+    "13,3,5,15",
+    "12,3,1,2",
+    "11,3,1,2",
+    "12,5,1,4",
+    "11,5,1,4",
+    "12,9,1,5",
+    "11,9,1,5",
+    "8,21,6,11",
+    "7,21,1,2",
+    "6,21,1,2",
+    "7,23,1,4",
+    "6,23,1,4"
+  ],
+  "PageInfo": {
+    "$type": "Forguncy.Model.Pages.NormalPage, ServerDesignerCommon",
+    "AuthorizeInfo": {
+      "VisitMode": 2
+    },
+    "RowBreakLines": [],
+    "RepeatRangeSettings": []
+  },
+  "PrintInfo": {
+    "Margin": {},
+    "PaperSize": {}
+  }
+}//Eky2/lyFVHGczdVpPRL3N71Cyb7pJ2D8MyWmBs5T29dxpfaCUwXodGmwReD7ft2+P94QphXHBkN0QqdAVZYes0XBZ/W5KYdHV/g/Bgd86KZUASm7f8c3X3UmKB+8GwE+5rxHKDNlukB+JA/Sr+RIc+rlyT3NgrbvMbvbK3X//jTP4mlMYkO2KMjoyw4LSGO0opKeQHV0DW0RBZkB1k4esGoVo6eE7Kap0tlylhO5gTrfwFnBpCy8//E50Rj2Jt30pLBN1XgGGNR6RzsR5nxRBXNXnul08sKPjnU59t7j1+4pEdRuwzOZlaTWtX22z1ivGcsBxCtokVF//YL+T91JElj9guj8hi1ZtZB8NEHsyYyCank9qRV6kF3r+Miy3WWw5UHknqErX99OPEbQRZB9ZqahGCZylSPO98x5IxiZJEnoSrKM4BYB4DXC+hHd9eryPbOIFyIp6ldggLB7bTZHZILYQZCfUy0jyqe3YZ2LUS9U059L5aEdX6Lpk4D72dsWCVwVskuDgjSch9UnRrJp7Wnw5sJTfpbyhfp2neqSR8IWhcJP0CehYgJ0IdZ8GE0EMCw1LdZGQAX3Y1tdRggDohmAQHduSD//R3oQX+jsthcQtvDQfKFfOp3hRm0AtEksn/V69OpHvFHJu67zGHP8Gl9RgR57HypbySwedlhuTm8BIaxussOjLmI4P3MtSrk4xxp80Yi6X3gIZaUJ+g1HXpBIisU572VuqKzgSzFSxmk3suCcC3/UgNsz6pXRi0dj52WavvjqjiaBvyhzNAsmDu50F/9TI3O24Tp8Kg+oNXYB30aG0ua1+aMtwFKQppG0z54AxIAloSx4qPGWSy2i5O2fcp1Gv5iuJl0+IAuzFZLGlwmwV47sPxtnaq7I34VJ7/JnzFfrEQJDH6vUu9//Ww==|920
