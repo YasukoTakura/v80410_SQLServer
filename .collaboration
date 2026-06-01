@@ -1,11 +1,29 @@
 [
   {
     "ModuleName": "Table/親テーブル",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2026-06-01T18:15:27.4920685+09:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\親テーブル.json"
+    ]
   },
   {
     "ModuleName": "Table/子テーブル",
-    "ModuleType": 7
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2026-06-01T18:15:27.4920685+09:00",
+    "ModuleType": 7,
+    "ToRemoveFiles": [
+      "Tables\\子テーブル.json"
+    ]
   },
   {
     "ModuleName": "Table/ダミー消していい",
@@ -153,7 +171,16 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "ModuleType": 25
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2026-06-01T18:15:27.4920685+09:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet.json"
+    ]
   },
   {
     "ModuleName": "Upload",
