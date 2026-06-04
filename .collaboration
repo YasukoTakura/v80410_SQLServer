@@ -1,16 +1,7 @@
 [
   {
     "ModuleName": "Table/親テーブル",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-03T17:08:26.1074144+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\親テーブル.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/子テーブル",
@@ -126,16 +117,7 @@
   },
   {
     "ModuleName": "PCPage/ページ1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-04T08:55:23.8021048+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\ページ1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
@@ -176,16 +158,5 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
-  },
-  {
-    "ModuleName": "Table/テーブル1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-03T17:12:42.5208402+09:00",
-    "ModuleType": 7,
-    "ExclusiveType": 0
   }
 ]
