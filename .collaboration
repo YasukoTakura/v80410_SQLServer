@@ -126,7 +126,16 @@
   },
   {
     "ModuleName": "PCPage/ページ1",
-    "ModuleType": 1
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2026-06-12T08:50:12.6883776+09:00",
+    "ModuleType": 1,
+    "ToRemoveFiles": [
+      "Pages\\ページ1.json"
+    ]
   },
   {
     "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
