@@ -176,5 +176,15 @@
   {
     "ModuleName": "Upload",
     "ModuleType": 26
+  },
+  {
+    "ModuleName": "Table/table1",
+    "State": 3,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2026-06-12T08:49:10.9564133+09:00",
+    "ModuleType": 7
   }
 ]
