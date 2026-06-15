@@ -14,12 +14,12 @@
   },
   {
     "ModuleName": "Table/子テーブル",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\Yasuko",
       "Email": "example@example.com"
     },
-    "LockDateTime": "2026-06-15T18:02:17.0602224+09:00",
+    "LockDateTime": "2026-06-15T18:03:09.8090116+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\子テーブル.json"
