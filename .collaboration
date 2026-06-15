@@ -171,7 +171,16 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "ModuleType": 25
+    "State": 1,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\Yasuko",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2026-06-15T18:03:47.4698909+09:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet.json"
+    ]
   },
   {
     "ModuleName": "Upload",
