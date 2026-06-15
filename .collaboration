@@ -1,12 +1,12 @@
 [
   {
     "ModuleName": "Table/親テーブル",
-    "State": 1,
+    "State": 2,
     "LockedBy": {
       "UserName": "GRAPECITY\\Yasuko",
       "Email": "example@example.com"
     },
-    "LockDateTime": "2026-06-15T18:02:09.2488998+09:00",
+    "LockDateTime": "2026-06-15T18:02:58.7750259+09:00",
     "ModuleType": 7,
     "ToRemoveFiles": [
       "Tables\\親テーブル.json"
