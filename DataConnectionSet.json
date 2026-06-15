@@ -8,5 +8,10 @@
     "ConnectionString": "Data Source=jp-es-yasuko11p;Initial Catalog=CUSTOMER;Integrated Security=True;Persist Security Info=True",
     "DataBaseType": 1,
     "ID": "574b4353-224b-4fbb-9d54-1f85ddca5b2d"
+  },
+  {
+    "ConnectionString": "Server=127.0.0.1;User ID=root;Password=1ActiveReports;Database=customer;Port=3306;Allow Public Key Retrieval=True",
+    "DataBaseType": 6,
+    "ID": "285f8900-da90-4c11-a3c1-74488ce27fd4"
   }
 ]

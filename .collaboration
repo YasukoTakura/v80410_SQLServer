@@ -1,16 +1,7 @@
 [
   {
     "ModuleName": "Table/親テーブル",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-05T15:11:40.2059472+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\親テーブル.json"
-    ]
+    "ModuleType": 7
   },
   {
     "ModuleName": "Table/子テーブル",
@@ -126,16 +117,7 @@
   },
   {
     "ModuleName": "PCPage/ページ1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-12T08:50:12.6883776+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\ページ1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
@@ -171,16 +153,7 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-12T08:47:52.0305092+09:00",
-    "ModuleType": 25,
-    "ToRemoveFiles": [
-      "DataConnectionSet.json"
-    ]
+    "ModuleType": 25
   },
   {
     "ModuleName": "Upload",
@@ -188,12 +161,6 @@
   },
   {
     "ModuleName": "Table/table1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-12T08:49:10.9564133+09:00",
     "ModuleType": 7
   }
 ]
