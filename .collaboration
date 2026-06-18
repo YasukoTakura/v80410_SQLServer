@@ -1,18 +1,5 @@
 [
   {
-    "ModuleName": "Table/table1",
-    "State": 2,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-18T10:23:15.2271926+09:00",
-    "ModuleType": 7,
-    "ToRemoveFiles": [
-      "Tables\\table1.json"
-    ]
-  },
-  {
     "ModuleName": "Table/ダミー消していい",
     "ModuleType": 7
   },
@@ -130,16 +117,7 @@
   },
   {
     "ModuleName": "PCPage/ページ1",
-    "State": 1,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\Yasuko",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2026-06-18T10:23:15.2371933+09:00",
-    "ModuleType": 1,
-    "ToRemoveFiles": [
-      "Pages\\ページ1.json"
-    ]
+    "ModuleType": 1
   },
   {
     "ModuleName": "MasterPCPage/FGC_ユーザーマスターページ",
