@@ -10,7 +10,7 @@
     "ID": "574b4353-224b-4fbb-9d54-1f85ddca5b2d"
   },
   {
-    "ConnectionString": "Server=127.0.0.1;User ID=root;Password=1ActiveReports;Database=testmysql;Port=3306",
+    "ConnectionString": "Server=127.0.0.1;User ID=root;Password=1ActiveReports;Database=testmysql;Port=3306;Allow Public Key Retrieval=False",
     "DataBaseType": 6,
     "ID": "f52098bf-732f-4e22-bf93-2adca6304713"
   }
